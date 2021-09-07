@@ -1,0 +1,17 @@
+.a.b.c{
+    font-family: 'Great Vibes', cursive;
+    color: rgb(0, 0, 0);
+}
+
+.body{
+    background-color: aqua;
+}
+
+.out{
+    width: 800px;
+    height: 600px;
+    background-color:chartreuse;
+    border-radius: 20px;
+    border-color: red;
+    border-style: ridge;
+}
